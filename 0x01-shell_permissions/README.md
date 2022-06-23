@@ -1,1 +1,1 @@
-shell permissions tasks
+script that switches the current user to the user
